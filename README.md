@@ -1,6 +1,18 @@
 # CFAD
 
-This is a repository hosting the code of CFAD. 
+This is a repository hosting the code of our paper: [Counterfactual Graph Learning for Anomaly Detection on Attributed Networks](https://github.com/ChunjingXiao/CsiGAN/blob/master/CsiGAN%20Robust%20Channel%20State%20Information-based%20Activity%20Recognition%20with%20GANs.pdf), IEEE Transactions on Knowledge and Data Engineering, 2023, 35(10):10540 - 10553. https://ieeexplore.ieee.org/abstract/document/10056298
+ 
+
+# Citation
+@article{xiao2023counterfactual,
+&nbsp; &nbsp;author={Xiao, Chunjing and Xu, Xovee and Lei, Yue and Zhang, Kunpeng and Liu, Siyuan and Zhou, Fan},
+&nbsp; &nbsp;journal={IEEE Transactions on Knowledge and Data Engineering}, 
+&nbsp; &nbsp;title={Counterfactual Graph Learning for Anomaly Detection on Attributed Networks}, 
+&nbsp; &nbsp;year={2023},
+&nbsp; &nbsp;volume={35},
+&nbsp; &nbsp;number={10},
+&nbsp; &nbsp;pages={10540-10553},
+}
 
 ## Data
 
