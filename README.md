@@ -1,6 +1,6 @@
 # Counterfactual Graph Learning for Anomaly Detection on Attributed Networks
 
-This is a repository hosting the code of our paper: [Counterfactual Graph Learning for Anomaly Detection on Attributed Networks](https://github.com/ChunjingXiao/CFAD/blob/main/CFAD.pdf), IEEE Transactions on Knowledge and Data Engineering, 2023, 35(10):10540 - 10553. https://ieeexplore.ieee.org/abstract/document/10056298
+This is a repository hosting the code of our paper: [Counterfactual Graph Learning for Anomaly Detection on Attributed Networks](https://github.com/ChunjingXiao/CFAD/blob/main/TKDE_23_CFAD.pdf), IEEE Transactions on Knowledge and Data Engineering, 2023, 35(10):10540 - 10553. https://ieeexplore.ieee.org/abstract/document/10056298
  
 
 # Citation
